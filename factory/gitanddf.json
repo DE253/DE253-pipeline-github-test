@@ -1,0 +1,9 @@
+{
+	"name": "gitanddf",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3efa2ca0-f92a-4a3a-9b0c-60055d27c392",
+		"tenantId": "80afa3f4-1563-46f1-a268-04f5fb610dd9"
+	}
+}
